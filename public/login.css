@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background: #BB001C;
+}
+
+h1{
+  color: #F5FF00;
+  font-size: 7rem;
+}
+
+a{
+  color: #F5FF00;
+}
+
+.form-control{
+  border-radius: 0px;
+  color: white;
+  box-shadow: none;
+  border: none;
+  border-bottom: 1px solid #1C76BD;
+  background-color: transparent;
+}
+
+.container{
+  margin-top: 12%;
+}
+
+
+.btn-warning{
+  background-color: #BB001C;
+  width: 25%;
+}
+.btn-warning:hover{
+  background-color: #F5FF00;
+  border: 1px solid #BB001C;
+  width: 25%;
+}
